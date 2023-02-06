@@ -1,0 +1,4 @@
+{
+    "baseUrl" : "http://google.com",
+    "ignoreTestFiles" : "**/2-advanced-examples/*"
+}
